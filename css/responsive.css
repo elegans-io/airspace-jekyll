@@ -211,12 +211,12 @@ px      68    160    252    */
     padding-bottom: 70px;
   }
   /*--
-	call-to-action Start 
+	pricing Start 
 --*/
-  #call-to-action p {
+  #pricing p {
     padding: 0px 0px 40px;
   }
-  #call-to-action .btn {
+  #pricing .btn {
     padding: 10px 20px;
     font-size: 15px;
   }
